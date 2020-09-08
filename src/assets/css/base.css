@@ -1,0 +1,23 @@
+@import url("./normalize.css");
+body,ul,li,hr{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+body{
+	font-family: "Consolas","courier new";
+	font-size: 15px;
+}
+/*项目字体主色1*/
+.fontColor{
+	color:#F1AF00;
+}
+/*项目字体主色2*/
+.fontColor2{
+	color:#B6292B;
+}
+/*项目字体主色3*/
+.fontColor3{
+	color:white;
+}
